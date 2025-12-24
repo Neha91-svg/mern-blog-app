@@ -23,7 +23,7 @@ The application is **Dockerized** and deployed using **Render (Backend)** and **
 - React.js
 - Axios
 - React Router
-- CSS / Tailwind (if used)
+- Tailwindcss
 
 ### Backend
 - Node.js
